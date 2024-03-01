@@ -2,7 +2,7 @@
 ### Olá! Meu nome é João Reberth 👋
 
 #### Contact ✉ :
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white{:target="_blank"})](https://www.linkedin.com/in/joaoreberth/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoreberth/{:target="_blank"})&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.joaoreberthsant@gmail.com/)&nbsp;
 
 #### My Stacks😎 :
